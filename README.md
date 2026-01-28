@@ -1,4 +1,7 @@
 # Fire-Detection-and-Extinguishing-System
+
+Video demonstration link: https://www.youtube.com/watch?v=-E1TRJzHluY
+
 A smart system for detecting and automatically extinguishing fires created with a RP2040 Raspberry Pi.
 - The system uses an LM35 temperature sensor and a flame sensor to detect fires.
 - When temperature thresholds are exceeded or flames are detected, a water pump is automatically activated to extinguish the fire.
