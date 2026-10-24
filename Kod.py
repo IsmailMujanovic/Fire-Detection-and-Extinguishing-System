@@ -20,7 +20,7 @@ def connect_wifi(ssid, password):
             pass
     print("Povezano:", wlan.ifconfig())
 
-connect_wifi("DZAFIC", "29122004")
+connect_wifi("ssid", "pass")
 
 # --- MQTT Konfiguracija ---
 TOPIC_TEMP = b"picoETF/temperatura"
